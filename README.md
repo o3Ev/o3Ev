@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **o3Ev/o3Ev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**### Yoo, I'm o3Ev 👋**
+
+ID：o3Ev
+
+个人博客：blog.o3ev.cn
