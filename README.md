@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ID：o3Ev
 
-个人博客：blog.o3ev.cn
+个人博客：http://blog.o3ev.cn
